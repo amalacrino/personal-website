@@ -13,7 +13,7 @@ baseurl = "https://amalacrino.github.io/"
 
 # Enter a copyright notice to display in the site footer.
 # To display a copyright symbol, type `&copy;`. For current year, type `{year}`.
-copyright = "&copy; Antonino Malacrinò {year} :blush:"
+copyright = "&copy; Antonino Malacrinò {year} <i class="ai ai-google-scholar-square ai-3x"></i>"
 
 # Enable analytics by entering your Google Analytics tracking ID
 googleAnalytics = ""
