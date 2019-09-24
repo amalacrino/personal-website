@@ -1,6 +1,6 @@
 ---
 # Display name
-name: Nelson Bighetti
+name: Antonino Malacrinò
 
 # Username (this should match the folder name)
 authors:
@@ -10,32 +10,32 @@ authors:
 superuser: true
 
 # Role/position
-role: Professor of Artificial Intelligence
+role: Postdoctoral Researcher
 
 # Organizations/Affiliations
 organizations:
-- name: Stanford University
-  url: ""
+- name: The Ohio State University
+  url: "https://eeob.osu.edu/people/malacrino.1"
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+bio: I’m a molecular ecologist interested in insect-microorganisms and plant-microorganism interaction.
 
 interests:
-- Artificial Intelligence
-- Computational Linguistics
-- Information Retrieval
+- Microbiomes
+- Microbial Ecology
+- Plant- and Insect-microbe interaction
 
 education:
   courses:
-  - course: PhD in Artificial Intelligence
-    institution: Stanford University
-    year: 2012
-  - course: MEng in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2009
-  - course: BSc in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2008
+  - course: Ph.D. in Agriculture, Forestry and Environmental Sciences
+    institution: University of Palermo
+    year: 2017
+  - course: M.Sc. in Agriculture
+    institution: University of Reggio Calabria
+    year: 2013
+  - course: BSc in Agriculture
+    institution: University of Reggio Calabria
+    year: 2011
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/widgets/#icons
@@ -44,21 +44,25 @@ education:
 social:
 - icon: envelope
   icon_pack: fas
-  link: '#contact'  # For a direct email link, use "mailto:test@example.org".
+  link: 'mailto:test@example.org'  # For a direct email link, use "mailto:test@example.org".
 - icon: twitter
   icon_pack: fab
-  link: https://twitter.com/GeorgeCushen
+  link: https://twitter.com/antonino_mal
 - icon: google-scholar
   icon_pack: ai
-  link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
+  link: https://scholar.google.com/citations?user=_ghEdkYAAAAJ
 - icon: github
   icon_pack: fab
-  link: https://github.com/gcushen
+  link: https://github.com/amalacrino
+- icon: researchgate
+  icon_pack: ai
+  link: https://www.researchgate.net/profile/Antonino_Malacrino
+  
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.  
-# - icon: cv
-#   icon_pack: ai
-#   link: files/cv.pdf
+- icon: cv
+  icon_pack: ai
+  link: files/cv.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
 email: ""
@@ -70,6 +74,10 @@ user_groups:
 - Visitors
 ---
 
-Nelson Bighetti is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+{{% alert warning %}}
+My website is currently under construction. Meanwhile you can have a look at my CV and professional profiles. Tap (or click!) the links on the left.
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate. 
+Thanks for visiting! 
+{{% /alert %}}
+
+I’m a molecular ecologist interested in insect-microorganisms and plant-microorganism interaction. Currently I'm working on the molecular mechanisms behind plant-microorganisms interactions and their effects on surrounding biological communities. I’m also interested about the role of microbial symbionts in biological invasions, and about insect-microorganisms relationship in polyphagous species.
