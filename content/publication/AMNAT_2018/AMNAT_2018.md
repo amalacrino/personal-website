@@ -40,7 +40,7 @@ selected = true
 # Links (optional)
 url_pdf = "https://www.journals.uchicago.edu/doi/abs/10.1086/700117"
 url_code = ""
-url_dataset = ""
+url_dataset = "https://dx.doi.org/10.5061/dryad.5089j74"
 url_project = ""
 url_slides = ""
 url_video = ""
