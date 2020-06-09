@@ -18,7 +18,7 @@ publication_types = ["2"]
 
 # Publication name and optional abbreviated version.
 publication = "Microbial Ecology"
-publication_short = "Microb Ecol"
+publication_short = "Microbial Ecology"
 
 # Abstract and optional shortened version.
 abstract = "Microbial communities associated to the gut of insects are attracting an increasing interest, mainly because of their role in influencing several host life-traits. The characterization of the gut microbial community is pivotal for understanding insect ecology and, thus, to develop novel pest management strategies. The pine processionary moth, Thaumetopoea pytiocampa (Denis & Schiff.) (Lepidoptera: Thaumetopoeidae), is a severe defoliator of pine forests, able to feed on several pine species. In this work, we performed a metabarcoding analysis to investigate, for the first time, the diversity of the gut bacterial community of pine processionary larvae associated with three different host pine species (Pinus halepensis, Pinus nigra subsp. laricio, and Pinus pinaster). We found that the gut microbial community of T. pityocampa larvae collected on P. halapensis was different from that associated with larvae collected from P. nigra and P. pinaster. Moreover, the high presence of bacteria belonging to the genera Modestobacter, Delftia, and unidentified Methylobacteriaceae retrieved in larvae feeding on P. halapensis suggested that specific interactions can occur. Our results provide the evidence that different host plant differently impact on the microbiota diversity of T. pityocampa larvae, contributing to the general knowledge of this pest with information that could be useful in shaping the next generation of pest control strategies."

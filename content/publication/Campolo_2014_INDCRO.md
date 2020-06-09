@@ -18,7 +18,7 @@ publication_types = ["2"]
 
 # Publication name and optional abbreviated version.
 publication = "Industrial Crops and Products"
-publication_short = "Ind Cro Prod"
+publication_short = "Industrial Crops and Products"
 
 # Abstract and optional shortened version.
 abstract = "The effects of kaolin and diatomaceous earth applied alone and in combinations with sweet orange [Citrus sinensis (L.) Osbeck] peel essential oil against Rhyzopertha dominica (F.) (Coleoptera: Bostrichidae) and wheat microbial populations were evaluated. Adult beetles reared on durum wheat (cv Simeto) were used to carry out the tests. Five formulations at five application rates were tested. Both insect mortality and progeny production were affected by the treatment, the application rate and the exposure time. C. sinensis essential oil showed a synergistic effect on the mortality of R. dominica, if combined with kaolin, and antagonistic effect when admixed with diatomaceous earth. Yeasts and moulds as well as total mesophilic aerobic bacteria growths were reduced by C. sinensis essential oil applied alone more than the other dusts and dust-essential oil-based treatments. Kaolin admixed with C. sinensis peel essential oil might be a viable alternative to the chemical pesticides commonly used in wheat pest management."

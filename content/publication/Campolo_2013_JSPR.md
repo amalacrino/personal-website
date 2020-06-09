@@ -18,7 +18,7 @@ publication_types = ["2"]
 
 # Publication name and optional abbreviated version.
 publication = "Journal of Stored Products Research"
-publication_short = "J Stor Prod Res"
+publication_short = "Journal of Stored Products Research"
 
 # Abstract and optional shortened version.
 abstract = ""

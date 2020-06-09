@@ -18,7 +18,7 @@ publication_types = ["2"]
 
 # Publication name and optional abbreviated version.
 publication = "Proceedings of the Royal Society: B"
-publication_short = "Proc B"
+publication_short = "Proceedings of the Royal Society: B"
 
 # Abstract and optional shortened version.
 abstract = "Theory suggests sexual traits should show heightened condition-dependent expression. This prediction has been tested extensively in experiments where condition has been manipulated through environmental quality. Condition-dependence as a function of genetic quality has, however, only rarely been addressed, despite its central importance in evolutionary theory. To address the effect of genetic quality on expression of sexual and non-sexual traits, we here compare gene expression in Drosophila melanogaster head tissue between flies with intact genomes (high condition) and flies carrying a major deleterious mutation (low condition). We find that sex-biased genes show heightened condition-dependent expression in both sexes, and that expression in low condition males and females regresses towards a more similar expression profile. As predicted, sex-biased expression was more sensitive to condition in males compared to females, but surprisingly female-biased, rather than male-biased, genes show higher sensitivity to condition in both sexes. Our results thus support the fundamental predictions of the theory of condition-dependence when condition is a function of genetic quality."

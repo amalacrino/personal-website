@@ -17,7 +17,7 @@ authors = ["Malacrinò A"]
 publication_types = ["6"]
 
 # Publication name and optional abbreviated version.
-publication = "Aboveground–Belowground Community Ecology "
+publication = "Transcriptomics in Entomological Research"
 publication_short = ""
 
 # Abstract and optional shortened version.

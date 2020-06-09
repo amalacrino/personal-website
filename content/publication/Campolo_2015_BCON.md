@@ -18,7 +18,7 @@ publication_types = ["2"]
 
 # Publication name and optional abbreviated version.
 publication = "Biological Control"
-publication_short = "Biol Control"
+publication_short = "Biological Control"
 
 # Abstract and optional shortened version.
 abstract = "During recent years, the positive role of ants as biological control agents in agro-ecosystems has gained growing interest. We investigated the predatory relationship between Ceratitis capitata (Wiedemann) and the ant Tapinoma nigerrimum (Nylander), commonly widespread in the Mediterranean area. Additionally we investigated some bio-ethological aspects of C. capitata larvae that could be relevant timing factors for predation. Field observations highlighted that C. capitata larvae were preyed on by ants, and laboratory assays suggested that movement of medfly larvae, as well as olfactory cues, affected prey location by T. nigerrimum. Further observations on the circadian activity of C. capitata suggest that mature larvae leave the fruit to pupate in the soil mainly in the early morning, and they can bury faster in moistened soil. These ecological aspects are discussed in the context of sustainable agriculture."

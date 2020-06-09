@@ -17,8 +17,8 @@ authors = ["Campolo O", "Malacrinò A", "Laudani F", "Algeri GM", "Giunti G", "S
 publication_types = ["2"]
 
 # Publication name and optional abbreviated version.
-publication = "Entomologia generalis"
-publication_short = "Entomologia generalis"
+publication = "Entomologia Generalis"
+publication_short = "Entomologia Generalis"
 
 # Abstract and optional shortened version.
 abstract = "The occurrence of Unaspis yanonensis (Kuwana) (Hemiptera: Diaspididae) in Calabria (southern Italy) poses a serious threat to citrus cultivation. A regional survey was performed to record information about its distribution in local citrus orchards. Field population dynamics were also studied. The arrowhead scale, U. yanonensis, was recorded in the two main citrus cultivation areas of Calabria. In the investigated environments U. yanonensis completed two generations per year; a typical bi-modal oviposition was recorded. The arrowhead scale overwintered as second-instar males and pre-ovipositing females."

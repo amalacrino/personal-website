@@ -18,7 +18,7 @@ publication_types = ["2"]
 
 # Publication name and optional abbreviated version.
 publication = "Microbial Ecology"
-publication_short = "Microb Ecol"
+publication_short = "Microbial Ecology"
 
 # Abstract and optional shortened version.
 abstract = "The occurrence of interaction between insects and fungi is interesting from an ecological point of view, particularly when these interactions involve insect pests and plant pathogens within an agroecosystem. In this study, we aimed to perform an accurate analysis on the fungal microbiota associated to Bactrocera oleae (Rossi) through a metabarcoding approach based on 454 pyrosequencing. From this analysis, we retrieved 43,549 reads that clustered into 128 operational taxonomic units (OTUs), of which 29 resulted in the “core” associate fungi of B. oleae. This fungal community was mainly represented by sooty mould fungi, such as Cladosporium spp., Alternaria spp. and Aureobasidium spp., by plant pathogens like Colletotrichum spp. and Pseudocercospora spp., along with several other less abundant taxa whose ecology is unclear in most of the cases. Our findings lead to new insights into the microbial ecology of this specific ecological niche, enabling the understanding of a complex network of interactions within the olive agroecosystem."
