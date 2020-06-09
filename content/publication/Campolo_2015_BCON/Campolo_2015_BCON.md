@@ -3,7 +3,7 @@ title = "Interaction between ants and the Mediterranean fruit fly: New insights 
 date = "2015-11-30"
 
 # Authors. Comma separated list, e.g. `["Jeffery J. Mondak","Jon Hurwitz","Mark Peffley","Paul Testa"]`.
-authors = ["Campolo O", "Palmeri V", "Malacrinò A", "Laudani F", "Castracani C", "Mori A", "Grasso DA]
+authors = ["Campolo O", "Palmeri V", "Malacrinò A", "Laudani F", "Castracani C", "Mori A", "Grasso DA"]
 
 # Publication type.
 # Legend:
