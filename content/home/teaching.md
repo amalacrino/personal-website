@@ -28,4 +28,19 @@ date_format = "Jan 2006"
   date_end = "2020-05-01"
   description = ""
 
+[[item]]
+  organization = "The Ohio State University"
+  title = "Taxonomic and functional diversity of the microbiome (Guest Lecture)"
+  date_start = "2020-02-01"
+
+[[item]]
+  organization = "The Ohio State University"
+  title = "Mycorrhizal associations (Guest Lecture)"
+  date_start = "2019-11-01"
+
+[[item]]
+  organization = "Linköping University"
+  title = "Introduction to High Throughput Sequencing technologies"
+  date_start = "2018-03-01"
+  date_end = "2018-06-01"
 +++
