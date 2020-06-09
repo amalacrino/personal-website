@@ -1,6 +1,6 @@
 +++
 title = "Natural Strategies to Improve Quality in Food Protection"
-date = "2013-04-01"
+date = "2018-12-26"
 
 # Authors. Comma separated list, e.g. `["Jeffery J. Mondak","Jon Hurwitz","Mark Peffley","Paul Testa"]`.
 authors = ["Romeo FV", "Alves Macedo J", "Malacrinò A"]
