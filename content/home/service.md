@@ -3,9 +3,9 @@
 widget = "accomplishments"  # See https://sourcethemes.com/academic/docs/page-builder/
 headless = true  # This file represents a page section.
 active = true  # Activate this widget? true/false
-weight = 6  # Order that this section will appear.
+weight = 8  # Order that this section will appear.
 
-title = "Teaching"
+title = "Service"
 subtitle = ""
 
 # Date format
@@ -19,13 +19,14 @@ date_format = "Jan 2006"
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
 
 [[item]]
-  organization = "The Ohio State University"
+  organization = ""
   organization_url = ""
-  title = "Microbiome meta-analaysis (EEOB 8896.12)"
-  url = "https://eeob.osu.edu/sites/default/files/2019-08/sp20_889612_microbiome_metaanalysis.pdf"
+  title = "Academic Editor"
+  url = ""
   certificate_url = ""
-  date_start = "2020-02-01"
-  date_end = "2020-05-01"
-  description = ""
+  date_start = ""
+  date_end = ""
+  description = "[Annals of Applied Biology](https://onlinelibrary.wiley.com/journal/17447348)
+[Prova]()"
 
 +++
