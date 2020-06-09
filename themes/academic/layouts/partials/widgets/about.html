@@ -104,15 +104,26 @@
       {{ end }}
 
       {{ with $person.twitter }}
-      <div class="center">
-      <a class="twitter-timeline" href="https://twitter.com/antonino_mal?ref_src=twsrc%5Etfw">Tweets by antonino_mal</a>
-      <script async src="https://platform.twitter.com/widgets.js" charset="utf-8">
-      </script> 
+      <div class="col-md-7">
+        <h3>{{ i18n "education" | markdownify }}</h3>
+        <ul class="ul-edu fa-ul">
+          {{ range .courses }}
+          <li>
+            <i class="fa-li fas fa-graduation-cap"></i>
+            <div class="description">
+              <p class="course">{{ .course }}{{ with .year }}, {{ . }}{{ end }}</p>
+              <p class="institution">{{ .institution }}</p>
+            </div>
+          </li>
+          {{ end }}
+        </ul>
       </div>
       {{ end }}
 
 
-
+<div class="col-md-7">
+<a class="twitter-timeline" href="https://twitter.com/antonino_mal?ref_src=twsrc%5Etfw">Tweets by antonino_mal</a> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script> 
+</div>
     
     </div>
   </div>
