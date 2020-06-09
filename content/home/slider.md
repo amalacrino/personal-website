@@ -19,7 +19,7 @@ height = ""
 
 [[item]]
   title = "Hi!"
-  content = "I’m a molecular ecologist interested in insect-microorganisms and plant-microorganism interaction. Currently I’m working on the molecular mechanisms behind plant-microorganisms interactions and their effects on surrounding biological communities. I’m also interested about the role of microbial symbionts in biological invasions, and about insect-microorganisms relationship in polyphagous species."
+  content = "I work on stuff that eats plants and their tiny companions"
   align = "center"
   overlay_color = "#555"  # An HTML color value.
   overlay_img = "tomatoes.jpg"  # Image path relative to your `static/img/` folder.
