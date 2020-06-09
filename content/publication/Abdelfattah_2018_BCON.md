@@ -18,7 +18,7 @@ publication_types = ["2"]
 
 # Publication name and optional abbreviated version.
 publication = "Biological Control"
-publication_short = "Biol Control"
+publication_short = "Biological Control"
 
 # Abstract and optional shortened version.
 abstract = "Microorganisms are the main drivers shaping the functioning and equilibrium of all ecosystems, contributing to nutrient cycling, primary production, litter decomposition, and multi-trophic interactions. Knowledge about the microbial assemblies in specific ecological niches is integral to understanding the assemblages interact and function the function, and becomes essential when the microbiota intersects with human activities, such as protecting crops against pests and diseases. Metabarcoding has proven to be a valuable tool and has been widely used for characterizing the microbial diversity of different environments and has been utilized in many research endeavors. Here we summarize the current status of metabarcoding technologies, the advantages and challenges in utilizing this technique, and how this pioneer approach is being applied to studying plant diseases and pests, with a focus on plant protection and biological control. Current and future developments in this technology will foster a more comprehensive understanding of microbial ecology, and the development of new, innovative pest control strategies."
