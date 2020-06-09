@@ -28,13 +28,13 @@ interests:
 education:
   courses:
   - course: Ph.D. in Agriculture, Forestry and Environmental Sciences
-    institution: University of Palermo
+    institution: University of Palermo (Italy)
     year: 2017
   - course: M.Sc. in Agriculture
-    institution: University of Reggio Calabria
+    institution: University of Reggio Calabria (Italy)
     year: 2013
   - course: BSc in Agriculture
-    institution: University of Reggio Calabria
+    institution: University of Reggio Calabria (Italy)
     year: 2011
 
 # Social/Academic Networking
