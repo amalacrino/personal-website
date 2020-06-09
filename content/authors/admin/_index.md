@@ -76,7 +76,3 @@ user_groups:
 ---
 
 I’m a molecular ecologist interested in insect-microorganisms and plant-microorganism interaction. Currently I'm working on the molecular mechanisms behind plant-microorganisms interactions and their effects on surrounding biological communities. I’m also interested about the role of microbial symbionts in biological invasions, and about insect-microorganisms relationship in polyphagous species.
-
-<div class="center">
-<a class="twitter-timeline" data-width="1000" data-height="400" data-theme="light" href="https://twitter.com/antonino_mal?ref_src=twsrc%5Etfw">Tweets by antonino_mal</a> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
-</div>
