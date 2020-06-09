@@ -75,15 +75,6 @@
     
     <div class="row">
     <div class="col-md-5">
-      {{ with $person.interests }}
-       <h3>{{ i18n "interests" | markdownify }}</h3>
-       <ul class="ul-interests">
-         {{ range . }}
-         <li>{{ . | markdownify | emojify }}</li>
-         {{ end }}
-       </ul>
-      </div>
-      {{ end }}
       {{ with $person.education }}
         <h3>{{ i18n "education" | markdownify }}</h3>
         <ul class="ul-edu fa-ul">
@@ -97,6 +88,15 @@
           </li>
           {{ end }}
         </ul>
+      {{ end }}
+      {{ with $person.interests }}
+       <h3>{{ i18n "interests" | markdownify }}</h3>
+       <ul class="ul-interests">
+         {{ range . }}
+         <li>{{ . | markdownify | emojify }}</li>
+         {{ end }}
+       </ul>
+      </div>
       {{ end }}
 
 <div class="col-md-7">
