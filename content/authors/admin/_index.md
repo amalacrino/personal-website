@@ -75,7 +75,7 @@ user_groups:
 - Visitors
 ---
 
-#{{% alert warning %}}
-#{{% /alert %}}
+##{{% alert warning %}}
+##{{% /alert %}}
 
 I’m a molecular ecologist interested in insect-microorganisms and plant-microorganism interaction. Currently I'm working on the molecular mechanisms behind plant-microorganisms interactions and their effects on surrounding biological communities. I’m also interested about the role of microbial symbionts in biological invasions, and about insect-microorganisms relationship in polyphagous species.
