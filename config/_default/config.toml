@@ -16,7 +16,7 @@ baseurl = "https://amalacrino.github.io/"
 copyright = "&copy; Antonino Malacrinò, {year}"
 
 # Enable analytics by entering your Google Analytics tracking ID
-googleAnalytics = ""
+googleAnalytics = "UA-168888382-1"
 
 ############################
 ## Advanced options below ##
