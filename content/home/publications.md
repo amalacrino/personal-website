@@ -5,10 +5,10 @@
 widget = "pages"  # See https://sourcethemes.com/academic/docs/page-builder/
 headless = true  # This file represents a page section.
 active = true  # Activate this widget? true/false
-weight = 3  # Order that this section will appear.
+weight = 5  # Order that this section will appear.
 
 title = "Recent Publications"
-subtitle = "[More Publications](https://amalacrino.netlify.com/publication/)"
+subtitle = "[All publications >>](https://amalacrino.netlify.com/publication/)"
 
 [content]
   # Page type to display. E.g. post, talk, or publication.
