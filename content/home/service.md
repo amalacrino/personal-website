@@ -19,13 +19,12 @@ date_format = "Jan 2006"
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
 
 [[item]]
-  organization = ""
-  organization_url = ""
-  title = "Academic Editor"
+  organization = "Annals of Applied Biology"
+  organization_url = "https://onlinelibrary.wiley.com/journal/17447348"
+  title = "Senior Editor"
   url = ""
   certificate_url = ""
   date_start = ""
   date_end = ""
-  description = "Annals of Applied Biology"
-
+  description = ""
 +++
