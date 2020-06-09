@@ -38,6 +38,12 @@ education:
     institution: University of Reggio Calabria (Italy)
     year: 2011
 
+experience:
+  courses:
+  - course: Ph.D. in Agriculture, Forestry and Environmental Sciences
+    institution: University of Palermo (Italy)
+    year: 2017
+
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/widgets/#icons
 #   For an email link, use "fas" icon pack, "envelope" icon, and a link in the
