@@ -2,13 +2,12 @@
 date = 2019-03-19T13:45:00  # Schedule page publish date.
 
 title = "The surprising influence of soil microbial community diversity on plant and insect interactions"
-time_start = 2019-03-19T13:45:00
-time_end = 2019-03-19T14:00:00
+time_start = 2019-03-19
 abstract = ""
 abstract_short = ""
-event = "Entomological Society of America, North Central Branch Meeting"
-event_url = "https://example.org"
-location = "Cincinnati (OH), USA"
+event = ""
+event_url = ""
+location = "ESA North Central Branch Meeting 2019"
 
 # Is this a selected talk? (true/false)
 selected = true
