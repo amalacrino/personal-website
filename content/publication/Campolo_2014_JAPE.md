@@ -18,7 +18,7 @@ publication_types = ["2"]
 
 # Publication name and optional abbreviated version.
 publication = "Journal of Asia-Pacific Entomology"
-publication_short = "Journal of Asia-Pacific Entomology""
+publication_short = "Journal of Asia-Pacific Entomology"
 
 # Abstract and optional shortened version.
 abstract = "Citrus tristeza virus (CTV) is a severe threat to the citrus industry. Disease symptoms and severity may vary depending on the CTV isolates. These are responsible for the decline of trees grafted on sour orange rootstock, or stem pitting on some citrus commercial cultivars regardless of rootstock. In the Calabria region (Italy), CTV was first reported on cultivars imported from other countries. However, recent observations suggested that natural spread of CTV was occurring and a study was needed to determine the epidemiological status and aphid transmission of CTV in Calabria. The role played by local A. gossypii in the spread of CTV was analyzed in the laboratory using various viral acquisition, inoculation periods with three different CTV isolates. Single aphid vectors acquired CTV after a minimum of 30 min acquisition access period (AAP) and were able to transmit the virus after a 60 min inoculation access period (IAP) to healthy plants. A minimum of four aphid vectors were needed to reach 50% transmission probability. The results suggested that the three tested strains are transmitted by A. gossypii in a semi-persistent mode. The results demonstrated that local A. gossypii population can acquire and transmit efficiently the tested virus isolates with serious implications on the virus spread."
