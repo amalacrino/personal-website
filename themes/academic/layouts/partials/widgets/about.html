@@ -73,21 +73,9 @@
     
     {{ $person_page.Content }}
     
+    <div class="row">
     <div class="col-md-5">
-     
-     {{ with $person.interests }}
-      <div class="row">
-        <h3>{{ i18n "interests" | markdownify }}</h3>
-        <ul class="ul-interests">
-          {{ range . }}
-          <li>{{ . | markdownify | emojify }}</li>
-          {{ end }}
-        </ul>
-      </div>
-      {{ end }}
-    
       {{ with $person.education }}
-      <div class="row">
         <h3>{{ i18n "education" | markdownify }}</h3>
         <ul class="ul-edu fa-ul">
           {{ range .courses }}
@@ -100,15 +88,24 @@
           </li>
           {{ end }}
         </ul>
+      {{ end }}
+      {{ with $person.interests }}
+       <h3>{{ i18n "interests" | markdownify }}</h3>
+       <ul class="ul-interests">
+         {{ range . }}
+         <li>{{ . | markdownify | emojify }}</li>
+         {{ end }}
+       </ul>
       </div>
       {{ end }}
     </div>
+    
 <div class="col-md-7">
 <h3>News</h3>
 <a class="twitter-timeline" data-width="600" data-height="400" data-theme="light" href="https://twitter.com/antonino_mal?ref_src=twsrc%5Etfw">News by antonino_mal</a> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 </div>
     
-   
+   </div>
   </div>
 </div>
 
