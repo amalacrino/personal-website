@@ -89,6 +89,20 @@
           </li>
           {{ end }}
         </ul>
+        <h3>{{ i18n "interests" | markdownify }}</h3>
+        <ul class="ul-interests">
+          {{ range . }}
+          <li>{{ . | markdownify | emojify }}</li>
+          {{ end }}
+        </ul>
+      </div>
+      <div class="col-md-3">
+        <h3>{{ i18n "interests" | markdownify }}</h3>
+        <ul class="ul-interests">
+          {{ range . }}
+          <li>{{ . | markdownify | emojify }}</li>
+          {{ end }}
+        </ul>
       </div>
       {{ end }}
     
@@ -100,5 +114,4 @@
    </div>
   </div>
 </div>
-
 
