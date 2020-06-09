@@ -26,6 +26,6 @@ date_format = "Jan 2006"
   certificate_url = ""
   date_start = ""
   date_end = ""
-  description = "[Annals of Applied Biology](https://onlinelibrary.wiley.com/journal/17447348)"
+  description = "Annals of Applied Biology"
 
 +++
