@@ -9,7 +9,7 @@ title = "Plant-insect-microbe interactions"
 summary = "How microbiomes mediate the interactions between plants and insects?"
 
 # Optional image to display on homepage (relative to `static/img/` folder).
-image_preview = "pmi.png"
+image_preview = "pmi.jpg"
 
 # Tags: can be used for filtering projects.
 # Example: `tags = ["machine-learning", "stem-cells"]`
