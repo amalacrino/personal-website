@@ -1,7 +1,7 @@
 +++
-title = " The surprising influence of soil microbial community diversity on plant and insect interactions"
-date = 2019-03-19
-location = "ESA North Central Branch Annual Meeting, Cincinnati (OH), USA"
+title = "Analisi del microbioma fungino associato a esemplari di Orthotomicus erosus (Wollaston) e Xyleborinus saxesenii (Ratzeburg) catturati all’interno di aree portuali italiane"
+date = 2016-06-22
+location = "XXV CNIE, Padova, Italy"
 
 # Is this a selected talk? (true/false)
 selected = true

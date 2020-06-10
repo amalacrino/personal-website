@@ -1,6 +1,6 @@
 +++
 title = "Condition alters the degree of sex-biased gene expression in Drosophila melanogaster"
-time_start = 2018-11-11
+date = 2018-11-11
 location = "Entomology 2018, Vancouver, Canada"
 
 # Is this a selected talk? (true/false)

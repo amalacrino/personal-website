@@ -1,7 +1,7 @@
 +++
-title = " The surprising influence of soil microbial community diversity on plant and insect interactions"
-date = 2019-03-19
-location = "ESA North Central Branch Annual Meeting, Cincinnati (OH), USA"
+title = "Fungal species of the olive canopy associated to the olive fruit fly Bactrocera oleae"
+date = 2015-07-27
+location = "Intl. Symp. on Phyllosphere Microbiology, Ascona, Switzerland"
 
 # Is this a selected talk? (true/false)
 selected = true

@@ -1,7 +1,7 @@
 +++
-title = " The surprising influence of soil microbial community diversity on plant and insect interactions"
-date = 2019-03-19
-location = "ESA North Central Branch Annual Meeting, Cincinnati (OH), USA"
+title = "Gene co-expression networks can lead to new insights into condition-dependent sexual dimorphism "
+date = 2017-11-05
+location = "Entomology 2017, Denver (CO), USA"
 
 # Is this a selected talk? (true/false)
 selected = true

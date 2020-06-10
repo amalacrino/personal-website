@@ -1,7 +1,7 @@
 +++
-title = " The surprising influence of soil microbial community diversity on plant and insect interactions"
-date = 2019-03-19
-location = "ESA North Central Branch Annual Meeting, Cincinnati (OH), USA"
+title = "Metabarcoding as tool to study above- belowground interactions: a case study"
+date = 2016-09-15
+location = "Workshop COST Action FA1405, Leipzig, Germany"
 
 # Is this a selected talk? (true/false)
 selected = true
