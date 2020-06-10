@@ -8,9 +8,8 @@ external_link: ""
 image:
   caption: ""
   focal_point: ""
-  preview_only: true
+  preview_only: false
 
-links:
 url_code: ""
 url_pdf: ""
 url_slides: ""
