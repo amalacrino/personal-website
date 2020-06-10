@@ -1,14 +1,7 @@
 +++
-date = 2018-11-11T15:20:00  # Schedule page publish date.
-
 title = "Condition alters the degree of sex-biased gene expression in Drosophila melanogaster"
-time_start = 2019-03-19T13:45:00
-time_end = 2019-03-19T14:00:00
-abstract = ""
-abstract_short = ""
-event = "Annual Meeting Entomological Society of America"
-event_url = ""
-location = "Vancouver, BC, Canada"
+time_start = 2018-11-11
+location = "Entomology 2018, Vancouver, Canada"
 
 # Is this a selected talk? (true/false)
 selected = true

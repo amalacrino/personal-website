@@ -1,13 +1,7 @@
 +++
-date = 2019-03-19T13:45:00  # Schedule page publish date.
-
-title = "The surprising influence of soil microbial community diversity on plant and insect interactions"
+title = " The surprising influence of soil microbial community diversity on plant and insect interactions"
 time_start = 2019-03-19
-abstract = ""
-abstract_short = ""
-event = ""
-event_url = ""
-location = "ESA North Central Branch Meeting 2019"
+location = "ESA North Central Branch Annual Meeting, Cincinnati (OH), USA"
 
 # Is this a selected talk? (true/false)
 selected = true
@@ -15,7 +9,7 @@ selected = true
 # Projects (optional).
 #   Associate this talk with one or more of your projects.
 #   Simply enter the filename (excluding '.md') of your project file in `content/project/`.
-projects = ["deep-learning"]
+#projects = ["deep-learning"]
 
 # Links (optional).
 url_pdf = ""
