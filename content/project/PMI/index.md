@@ -1,6 +1,6 @@
 ---
 title: Plant-microbiome-insect interactions
-summary: How microbiomes mediate the interactions between plants and their insect herbivores?
+summary:
 
 # Optional external URL for project (replaces project detail page).
 external_link: ""
@@ -23,4 +23,4 @@ url_video: ""
 slides: example
 ---
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam. Quisque risus orci, mollis id ante sit amet, gravida egestas nisl. Sed ac tempus magna. Proin in dui enim. Donec condimentum, sem id dapibus fringilla, tellus enim condimentum arcu, nec volutpat est felis vel metus. Vestibulum sit amet erat at nulla eleifend gravida.
+Extensive research described the physiological response of plants when interacting with different soil microorganisms, but also when attacked by an herbivore . With my collaborators we have shown that soil microbial community can influence herbivore’s microbiome and fitness. This is of great applied interest, because the manipulation of soil microbial communities can give us access to herbivores’ microbiome, with potential applications in crop protection.
