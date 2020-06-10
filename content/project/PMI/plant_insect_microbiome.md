@@ -6,9 +6,8 @@ summary: How microbiomes mediate the interactions between plants and their insec
 external_link: ""
 
 image:
-  caption: ""
-  focal_point: ""
-  preview_only: false
+  caption:
+  focal_point: Smart
 
 url_code: ""
 url_pdf: ""
