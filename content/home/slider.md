@@ -22,7 +22,7 @@ height = ""
   content = "I work on stuff that eats plants and their tiny companions"
   align = "center"
   overlay_color = "#555"  # An HTML color value.
-  overlay_img = "tomatoes.jpg"  # Image path relative to your `static/img/` folder.
+  overlay_img = "header.jpg"  # Image path relative to your `static/img/` folder.
   overlay_filter = 0.5  # Darken the image. Value in range 0-1.
 
 +++
