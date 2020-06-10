@@ -43,4 +43,11 @@ date_format = "Jan 2006"
   title = "Introduction to High Throughput Sequencing technologies"
   date_start = "2018-03-01"
   date_end = "2018-06-01"
+
+  # Background image.
+   image = "background.jpg"  # Name of image in `static/img/`.
+   image_darken = 0.6  # Darken the image? Range 0-1 where 0 is transparent and 1 is opaque.
+
+  # Text color (true=light or false=dark).
+   text_color_light = true  
 +++
