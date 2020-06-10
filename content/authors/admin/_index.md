@@ -75,10 +75,10 @@ user_groups:
 - Visitors
 ---
 
-I’m a molecular ecologist interested in insect-microorganisms and plant-microorganism interaction.
+I’m a molecular ecologist interested in microbes associated with insect and plants.
 
-I grew up in [Reggio Calabria](https://en.wikipedia.org/wiki/Reggio_Calabria) (Italy) and I've always been passionate about agriculture. This carried into my studies and a research career where I mix crop protection with molecular biology, high-throughput sequencing and high-performance computing (aka expensive stuff). After my PhD I joined the IFM-Biology Department at [Linköping University](https://liu.se/en/research/friberg-lab) (Sweden) as postdoctoral fellow. 
+I grew up in [Reggio Calabria](https://en.wikipedia.org/wiki/Reggio_Calabria) (Italy) and I've always been passionate about agriculture. This carried into my studies and a research career where I mix molecular biology, high-throughput sequencing and high-performance computing (*aka* expensive stuff). After my PhD I joined the IFM-Biology Department at [Linköping University](https://liu.se/) (Sweden) as postdoctoral fellow. 
 
 I am currently a postdoctoral researcher at [The Ohio State University](https://eeob.osu.edu/people/malacrino.1), where I'm working on the molecular mechanisms behind plant-microorganisms interactions and their effects on surrounding biological communities.
 
-My research aims to answer important fundamental questions: how do microbiomes influence the phenotype and fitness of their host? How microbiomes help invasive species to adapt to new environments? How theses small-scale events have an effect at ecosystem level?
+My research aims to answer important fundamental questions: how microbiomes influence the phenotype and fitness of their host? How microbiomes help invasive species to adapt to new environments? How theses small-scale events have an effect at ecosystem level?

@@ -23,4 +23,4 @@ url_video: ""
 slides: example
 ---
 
-Extensive research described the physiological response of plants when interacting with different soil microorganisms, but also when attacked by an herbivore . With my collaborators we have shown that soil microbial community can influence herbivore’s microbiome and fitness. This is of great applied interest, because the manipulation of soil microbial communities can give us access to herbivores’ microbiome, with potential applications in crop protection.
+Extensive research described the physiological response of plants when interacting with different soil microorganisms, but also when attacked by an herbivore . My research shown that soil microbial community can influence herbivore’s microbiome and fitness. This is of great applied interest, because the manipulation of soil microbial communities can give us access to herbivores’ microbiome, with potential applications in crop protection.
