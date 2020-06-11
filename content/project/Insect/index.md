@@ -3,7 +3,7 @@ title: Insect-associated microbiomes
 summary:
 
 # Optional external URL for project (replaces project detail page).
-external_link: ""
+external_link: "#"
 
 image:
   caption:
