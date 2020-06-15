@@ -18,13 +18,13 @@ subtitle = ""
   icon = "money-check-alt"
   icon_pack = "fas"
   name = "Research grants"
-  description = ">400,000 USD"
+  description = " more than 400,000 USD"
   
 [[feature]]
   icon = "book-reader"
   icon_pack = "fas"
   name = "Editor"
-  description = "[Annals of Applied Biology](https://onlinelibrary.wiley.com/journal/17447348) *Senior Editor* | [Agronomy](https://www.mdpi.com/journal/agronomy) *Editor"  
+  description = "[Annals of Applied Biology](https://onlinelibrary.wiley.com/journal/17447348) *Senior Editor*  \n[Agronomy](https://www.mdpi.com/journal/agronomy) *Editor"  
   
 [[feature]]
   icon = "edit"
