@@ -18,7 +18,7 @@ subtitle = ""
   icon = "search-dollar"
   icon_pack = "fas"
   name = "Research grants"
-  description = " $\gt$ 400,000 USD"
+  description = " \u62 400,000 USD"
   
 [[feature]]
   icon = "book-reader"
