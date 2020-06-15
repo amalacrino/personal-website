@@ -24,12 +24,12 @@ subtitle = ""
   icon = "book-reader"
   icon_pack = "fas"
   name = "Editor & Reviewer"
-  description = "[Annals of Applied Biology](https://onlinelibrary.wiley.com/journal/17447348) *Senior Editor*  \n[Agronomy](https://www.mdpi.com/journal/agronomy) *Editor* \n[Have a look at my reviewer activity](https://publons.com/author/1283862/antonino-malacrino)"  
+  description = "[Annals of Applied Biology](https://onlinelibrary.wiley.com/journal/17447348) *Senior Editor*  \n[Agronomy](https://www.mdpi.com/journal/agronomy) *Editor*  \n[Have a look at my reviewer activity](https://publons.com/author/1283862/antonino-malacrino)"  
   
 [[feature]]
   icon = "users"
   icon_pack = "fas"
   name = "Mentoring"
-  description = "1 PhD student \n[2 MSc students] \n[14 undergraduate students]"
+  description = "1 PhD student  \n 2 MSc students  \n 14 undergraduate students"
 
 +++
