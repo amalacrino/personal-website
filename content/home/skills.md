@@ -15,21 +15,27 @@ subtitle = ""
 # For available icons, see: https://sourcethemes.com/academic/docs/widgets/#icons
 
 [[feature]]
-  icon = "money-check-alt"
+  icon = "search-dollar"
   icon_pack = "fas"
   name = "Research grants"
-  description = " more than 400,000 USD"
+  description = " $\gt$ 400,000 USD"
   
 [[feature]]
   icon = "book-reader"
   icon_pack = "fas"
   name = "Editor"
-  description = "[Annals of Applied Biology](https://onlinelibrary.wiley.com/journal/17447348) *Senior Editor*  \n[Agronomy](https://www.mdpi.com/journal/agronomy) *Editor"  
+  description = "[Annals of Applied Biology](https://onlinelibrary.wiley.com/journal/17447348) *Senior Editor*  \n[Agronomy](https://www.mdpi.com/journal/agronomy) *Editor*"  
   
 [[feature]]
   icon = "edit"
   icon_pack = "fas"
   name = "Reviewer"
   description = "[Have a look at my reviewer activity](https://publons.com/author/1283862/antonino-malacrino)"
+
+[[feature]]
+  icon = "users"
+  icon_pack = "fas"
+  name = "Mentoring"
+  description = "1 PhD student \n 2 MSc students \n 14 undergraduate students"
 
 +++
