@@ -24,8 +24,7 @@ subtitle = ""
   icon = "book-reader"
   icon_pack = "fas"
   name = "Editor"
-  description = "[Annals of Applied Biology](https://onlinelibrary.wiley.com/journal/17447348) *Senior Editor*
-[Agronomy](https://www.mdpi.com/journal/agronomy) *Editor"  
+  description = "[Annals of Applied Biology](https://onlinelibrary.wiley.com/journal/17447348) *Senior Editor* | [Agronomy](https://www.mdpi.com/journal/agronomy) *Editor"  
   
 [[feature]]
   icon = "edit"
