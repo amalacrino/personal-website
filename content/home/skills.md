@@ -18,20 +18,14 @@ subtitle = ""
   icon = "search-dollar"
   icon_pack = "fas"
   name = "Research grants"
-  description = " ">" 400,000 USD"
+  description = " more than 400,000 USD"
   
 [[feature]]
   icon = "book-reader"
   icon_pack = "fas"
-  name = "Editor"
-  description = "[Annals of Applied Biology](https://onlinelibrary.wiley.com/journal/17447348) *Senior Editor*  \n[Agronomy](https://www.mdpi.com/journal/agronomy) *Editor*"  
+  name = "Editor & Reviewer"
+  description = "[Annals of Applied Biology](https://onlinelibrary.wiley.com/journal/17447348) *Senior Editor*  \n[Agronomy](https://www.mdpi.com/journal/agronomy) *Editor* \n[Have a look at my reviewer activity](https://publons.com/author/1283862/antonino-malacrino)"  
   
-[[feature]]
-  icon = "edit"
-  icon_pack = "fas"
-  name = "Reviewer"
-  description = "[Have a look at my reviewer activity](https://publons.com/author/1283862/antonino-malacrino)"
-
 [[feature]]
   icon = "users"
   icon_pack = "fas"
