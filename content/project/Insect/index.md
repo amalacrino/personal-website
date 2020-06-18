@@ -35,10 +35,10 @@ My research also contributed to show that insects are part of complex ecological
 
 **Further reading:**
 
-{{< icon name="file-alt" pack="fas" >}} [Holt et al. 2020. Annals of ESA](https://amalacrino.netlify.app/publication/holt_2020_aesa/)
+{{< icon name="file-alt" pack="fas" >}}  [Holt et al. 2020. Annals of ESA](https://amalacrino.netlify.app/publication/holt_2020_aesa/)
 
-{{< icon name="file-alt" pack="fas" >}} [Malacrinò et al. 2018. Biology](https://amalacrino.netlify.app/publication/malacrino_2018_biology/)
+{{< icon name="file-alt" pack="fas" >}}  [Malacrinò et al. 2018. Biology](https://amalacrino.netlify.app/publication/malacrino_2018_biology/)
 
-{{< icon name="file-alt" pack="fas" >}} [Malacrinò et al. 2018. Plos ONE](https://amalacrino.netlify.app/publication/malacrino_2018_pone/) 
+{{< icon name="file-alt" pack="fas" >}}  [Malacrinò et al. 2018. Plos ONE](https://amalacrino.netlify.app/publication/malacrino_2018_pone/) 
 
-{{< icon name="file-alt" pack="fas" >}}  [Strano et al. 2018. Microbial Ecology](https://amalacrino.netlify.app/publication/strano_2018_meco/) 
+{{< icon name="file-alt" pack="fas" >}}   [Strano et al. 2018. Microbial Ecology](https://amalacrino.netlify.app/publication/strano_2018_meco/) 
