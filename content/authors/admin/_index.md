@@ -78,9 +78,9 @@ user_groups:
 - Visitors
 ---
 
-I’m a molecular ecologist interested in microbiomes. I mix molecular biology, high-throughput sequencing and high-performance computing (*aka* expensive stuff) to answer question about the ecology of insect- and plant-associated microbiomes.
+I’m a molecular ecologist interested in **microbiomes**. I mix molecular biology, high-throughput sequencing and high-performance computing to answer key questions about the **ecology of insect- and plant-associated microbiomes** and **influence of microbial communities on their host**.
 
-I grew up in [Reggio Calabria](https://en.wikipedia.org/wiki/Reggio_Calabria) (Italy) and I've always been passionate about agriculture. This carried into [my studies](http://www.agraria.unirc.it/) and the decision to pursue a PhD on the edge between two fields: [plant pathology](https://www.unirc.it/ricerca/laboratori.php?lab=11) and [entomology](https://www.unirc.it/ricerca/laboratori.php?lab=12). After my PhD I joined the [Friberg Lab](https://liu.se/en/research/friberg-lab) at [Linköping University](https://liu.se/) (Sweden) as postdoctoral fellow. 
+I grew up in [Reggio Calabria](https://en.wikipedia.org/wiki/Reggio_Calabria) (Italy) and I've always been passionate about agriculture. This carried into my studies and the decision to pursue a PhD on the edge between two fields: [plant pathology](https://www.unirc.it/ricerca/laboratori.php?lab=11) and [entomology](https://www.unirc.it/ricerca/laboratori.php?lab=12). After my PhD I joined the [Friberg Lab](https://liu.se/en/research/friberg-lab) at [Linköping University](https://liu.se/) (Sweden) as postdoctoral fellow. 
 
 I am currently a postdoctoral researcher at [The Ohio State University](https://eeob.osu.edu/people/malacrino.1) in [Bennett Lab](https://species-interactions.osu.edu/), where I'm working on the molecular mechanisms behind plant-microorganisms interactions and their effects on surrounding biological communities.
 
