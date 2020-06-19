@@ -32,5 +32,3 @@ A major threat to ecosystems worldwide is the spread of species outside their na
 I extensively worked with invasive species (citrus insect scales, chestnut gall wasp, small hive beetle,  and many others), and part of my work focuses on how microbial communities can influence the spread of exotic species. 
 
 My research showed that the microbial community associated with invasive insect species, or those expanding their range, is different from the one they are associated with in their native environment. Furthermore, we found that a key to the success of invasive insect might rely on engaging novel insect-microorganisms relatioship by interacting with the microbiome of the invaded environment.
-
-{{< icon name="terminal" pack="fas" >}} Terminal 
