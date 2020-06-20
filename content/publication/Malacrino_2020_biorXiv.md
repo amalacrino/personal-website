@@ -1,5 +1,5 @@
 +++
-title = "Biological invasions alter environmental microbiomes: a meta-analysis"
+title = "[PREPRINT] Biological invasions alter environmental microbiomes: a meta-analysis"
 date = "2020-06-11"
 
 # Authors. Comma separated list, e.g. `["Jeffery J. Mondak","Jon Hurwitz","Mark Peffley","Paul Testa"]`.
@@ -38,7 +38,7 @@ image_preview = ""
 selected = true
 
 # Links (optional)
-url_pdf = "https://www.biorxiv.org/content/10.1101/2020.06.17.157883v1"
+url_preprint = "https://www.biorxiv.org/content/10.1101/2020.06.17.157883v1"
 url_code = "https://github.com/amalacrino/Biol_Invasion_Microb_MA"
 url_dataset = ""
 url_project = ""
