@@ -10,11 +10,11 @@ authors = ["Malacrinò A, Sadowski VA, Martin TK, Cavichiolli de Oliveira N, Bra
 # 0 = Uncategorized
 # 1 = Conference proceedings
 # 2 = Journal
-# 3 = Work in progress
+# 3 = Preprint
 # 4 = Technical report
 # 5 = Book
 # 6 = Book chapter
-publication_types: ["3"]
+publication_types = ["3"]
 
 # Publication name and optional abbreviated version.
 publication = "bioRxiv"
