@@ -1,5 +1,5 @@
 +++
-title = "[PREPRINT] Biological invasions alter environmental microbiomes: a meta-analysis"
+title = "Biological invasions alter environmental microbiomes: a meta-analysis"
 date = "2020-06-11"
 
 # Authors. Comma separated list, e.g. `["Jeffery J. Mondak","Jon Hurwitz","Mark Peffley","Paul Testa"]`.
