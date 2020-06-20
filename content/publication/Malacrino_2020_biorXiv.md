@@ -3,12 +3,17 @@ title = "Biological invasions alter environmental microbiomes: a meta-analysis"
 date = "2020-06-11"
 
 # Authors. Comma separated list, e.g. `["Jeffery J. Mondak","Jon Hurwitz","Mark Peffley","Paul Testa"]`.
-authors = ["Malacrinò A"]
+authors = ["Malacrinò A, Sadowski VA, Martin TK, Cavichiolli de Oliveira N, Brackett IJ, Feller JD, Harris KJ, Combita Heredia O, Vescio R, Bennett AE"]
 
 # Publication type.
-# Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
-# 3 = Preprint / Working Paper; 4 = Report; 5 = Book; 6 = Book section;
-# 7 = Thesis; 8 = Patent
+# Legend:
+# 0 = Uncategorized
+# 1 = Conference proceedings
+# 2 = Journal
+# 3 = Work in progress
+# 4 = Technical report
+# 5 = Book
+# 6 = Book chapter
 publication_types: ["3"]
 
 # Publication name and optional abbreviated version.
