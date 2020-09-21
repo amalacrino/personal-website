@@ -78,6 +78,6 @@ user_groups:
 - Visitors
 ---
 
-I’m a molecular ecologist interested in insect- and plant-associated microbiomes. 
+**I’m a molecular ecologist interested in insect- and plant-associated microbiomes.**
 
 I mix molecular biology, high-throughput sequencing and high-performance computing to answer important fundamental questions: how microbiomes influence the phenotype and fitness of their host? How microbiomes help invasive species to adapt to new environments? How microbes mediate the interaction between plants and their herbivores?
