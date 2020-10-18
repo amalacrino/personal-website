@@ -1,6 +1,5 @@
 +++
-# Accomplishments widget.
-widget = "accomplishments"  # See https://sourcethemes.com/academic/docs/page-builder/
+widget = ""blank"" 
 headless = true  # This file represents a page section.
 active = true  # Activate this widget? true/false
 weight = 6  # Order that this section will appear.
@@ -8,41 +7,19 @@ weight = 6  # Order that this section will appear.
 title = "Teaching"
 subtitle = ""
 
-# Date format
-#   Refer to https://sourcethemes.com/academic/docs/customization/#date-format
-date_format = "Jan 2006"
-
-# Accomplishments.
-#   Add/remove as many `[[item]]` blocks below as you like.
-#   `title`, `organization` and `date_start` are the required parameters.
-#   Leave other parameters empty if not required.
-#   Begin/end multi-line descriptions with 3 quotes `"""`.
-
-[[item]]
-  organization = "The Ohio State University"
-  organization_url = ""
-  title = "Microbiome meta-analaysis (EEOB 8896.12)"
-  url = "https://eeob.osu.edu/sites/default/files/2019-08/sp20_889612_microbiome_metaanalysis.pdf"
-  certificate_url = ""
-  date_start = "2020-02-01"
-  date_end = "2020-05-01"
-  description = ""
-
-[[item]]
-  organization = "The Ohio State University"
-  title = "Taxonomic and functional diversity of the microbiome (Guest Lecture)"
-  date_start = "2020-02-01"
-
-[[item]]
-  organization = "The Ohio State University"
-  title = "Mycorrhizal associations (Guest Lecture)"
-  date_start = "2019-11-01"
-
-[[item]]
-  organization = "Linköping University"
-  title = "Introduction to High Throughput Sequencing technologies"
-  date_start = "2018-03-01"
-  date_end = "2018-06-01"
+[design]
+  # Choose how many columns the section has. Valid values: 1 or 2.
+  columns = "2"
 +++
 
-My excitement for teaching comes from the challenge of distilling complex theories into clear concepts, keeping students open-minded but with a critical-thinking mindset. While teaching and mentoring, I strive for clarity and I foster problem-solving. 
+My excitement for teaching comes from the challenge of distilling complex theories into clear concepts, keeping students open-minded but with a critical-thinking mindset. While teaching and mentoring, I strive for clarity and I foster problem-solving. Here a list of my teaching experiences.
+
+**The Ohio State University**
+
+* Microbiome meta-analaysis (EEOB 8896.12). *Instructor* (2020, 7-weeks course)
+* Taxonomic and functional diversity of the microbiome. *Guest Lecture* (2020)
+* Mycorrhizal associations. *Guest Lecture* (2019 and 2020)
+
+**Linköping University**
+
+* Introduction to High Throughput Sequencing technologies. *Instructor* (2018, 8-weeks course)
