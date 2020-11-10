@@ -38,7 +38,8 @@ image_preview = ""
 selected = true
 
 # Links (optional)
-url_preprint = "https://www.biorxiv.org/content/10.1101/2020.06.17.157883v1"
+url_pdf = "https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0240996"
+url_preprint = "https://www.biorxiv.org/content/10.1101/2020.06.17.157883v3"
 url_code = "https://github.com/amalacrino/Biol_Invasion_Microb_MA"
 url_dataset = ""
 url_project = ""
