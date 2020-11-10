@@ -19,13 +19,13 @@ subtitle = ""
   icon_pack = "fas"
   name = "Research grants"
   description = " more than 400,000 EUR"
-  
+
 [[feature]]
   icon = "book-reader"
   icon_pack = "fas"
   name = "Editor & Reviewer"
-  description = "[Methods in Ecology and Evolution](https://besjournals.onlinelibrary.wiley.com/journal/2041210X) *Associate Editor*  \n[Annals of Applied Biology](https://onlinelibrary.wiley.com/journal/17447348) *Senior Editor*  \n[Agronomy](https://www.mdpi.com/journal/agronomy) *Editor*  \n[Have a look at my reviewer activity](https://publons.com/author/1283862/antonino-malacrino)"  
-  
+  description = "[Methods in Ecology and Evolution](https://besjournals.onlinelibrary.wiley.com/journal/2041210X) *Associate Editor*  \n[Annals of Applied Biology](https://onlinelibrary.wiley.com/journal/17447348) *Senior Editor*   \n[Have a look at my reviewer activity](https://publons.com/author/1283862/antonino-malacrino)"  
+
 [[feature]]
   icon = "users"
   icon_pack = "fas"
