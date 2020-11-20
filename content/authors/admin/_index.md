@@ -66,7 +66,7 @@ social:
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.  
 - icon: cv
   icon_pack: ai
-  link: https://www.dropbox.com/s/ti80sje9lgl4g7w/CV_Malacrino.pdf?dl=0
+  link: https://drive.google.com/file/d/158Z9eSw6Pz5589oJBRNvkUKSsojj_WU3/view?usp=sharing
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
 email: ""
