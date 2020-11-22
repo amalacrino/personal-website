@@ -3,7 +3,7 @@ title = "Biological invasions alter environmental microbiomes: a meta-analysis"
 date = "2020-06-11"
 
 # Authors. Comma separated list, e.g. `["Jeffery J. Mondak","Jon Hurwitz","Mark Peffley","Paul Testa"]`.
-authors = ["Malacrinò A, Sadowski VA, Martin TK, Cavichiolli de Oliveira N, Brackett IJ, Feller JD, Harris KJ, Combita Heredia O, Vescio R, Bennett AE"]
+authors = ["Malacrinò A", "Sadowski VA", "Martin TK", "Cavichiolli de Oliveira N", "Brackett IJ", "Feller JD", "Harris KJ", "Combita Heredia O", "Vescio R", "Bennett AE"]
 
 # Publication type.
 # Legend:
