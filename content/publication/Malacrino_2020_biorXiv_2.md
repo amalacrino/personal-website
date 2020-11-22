@@ -3,7 +3,7 @@ title = "Soil microbial diversity impacts plant microbiomes more than herbivory"
 date = "2020-10-01"
 
 # Authors. Comma separated list, e.g. `["Jeffery J. Mondak","Jon Hurwitz","Mark Peffley","Paul Testa"]`.
-authors = ["Malacrinò A, Karley AJ, Schena L, Bennett AE"]
+authors = ["Malacrinò A", "Karley AJ", "Schena L", "Bennett AE"]
 
 # Publication type.
 # Legend:
