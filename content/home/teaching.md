@@ -18,7 +18,7 @@ My excitement for teaching comes from the challenge of distilling complex theori
 
 * Microbiome metabarcoding workshop. *Instructor* (2020, 2-days workshop)
 * Microbiome meta-analaysis (EEOB 8896.12). *Instructor* (2020, 7-weeks course)
-* Taxonomic and functional diversity of the microbiome. *Guest Lecture* (2020)
+* Taxonomic and functional diversity of the microbiome. *Guest Lecture* (2020 and 2021)
 * Mycorrhizal associations. *Guest Lecture* (2019 and 2020)
 
 **Linköping University**
