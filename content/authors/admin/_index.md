@@ -78,11 +78,10 @@ user_groups:
 - Visitors
 ---
 
-{{% callout warning %}}
+{{% alert note%}} 
 Soon moving to University of Münster to join the [Plant-Adaptation-in-Action group](https://www.uni-muenster.de/Evolution/plantadapt/groupmain.shtml). 
-
 [**We are looking for a PhD sudent!**](https://drive.google.com/open?id=16ia3gbxX31UG0oIezUYDZr_fQUk7EJLN)
-{{% /callout %}}
+{{% /alert %}} 
 
 **I’m a molecular ecologist interested in insect- and plant-associated microbiomes.**
 
