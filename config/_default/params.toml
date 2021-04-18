@@ -110,7 +110,7 @@ address = {street = "318 W 12th Ave", city = "Columbus", region = "OH", postcode
 #   Set to `[]` to disable, or comment out unwanted lines with a hash `#`.
 contact_links = [
   {icon = "twitter", icon_pack = "fab", name = "DM Me", link = "https://twitter.com/antonino_mal"},
-  {icon = "skype", icon_pack = "fab", name = "Skype Me", link = "skype:antonino.malacrino"},
+  #{icon = "skype", icon_pack = "fab", name = "Skype Me", link = "skype:antonino.malacrino"},
   #{icon = "keybase", icon_pack = "fab", name = "Chat on Keybase", link = "https://keybase.io/"},
   #{icon = "comments", icon_pack = "fas", name = "Discuss on Forum", link = "https://discourse.gohugo.io"},
   # {icon = "telegram", icon_pack = "fab", name = "Telegram Me", link = "https://telegram.me/@Telegram"},

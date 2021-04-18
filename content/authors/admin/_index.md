@@ -15,7 +15,7 @@ role: Postdoctoral Researcher
 # Organizations/Affiliations
 organizations:
 - name: The Ohio State University
-  url: "https://eeob.osu.edu/people/malacrino.1"
+#  url: "https://eeob.osu.edu/people/malacrino.1"
 
 # Short bio (displayed in user profile at end of posts)
 bio: I’m a molecular ecologist interested in insect-microorganisms and plant-microorganism interaction.
