@@ -79,7 +79,7 @@ user_groups:
 ---
 
 {{% alert note%}} 
-Soon I'll join the [Plant-Adaptation-in-Action group](https://www.uni-muenster.de/Evolution/plantadapt/groupmain.shtml) at the University of Münster (Germany)!
+Soon I'll join the [Plant-Adaptation-in-Action group](https://www.uni-muenster.de/Evolution/plantadapt/groupmain.shtml) at the WWU Münster (Germany)!
 {{% /alert %}} 
 
 **I’m a molecular ecologist interested in insect- and plant-associated microbiomes.**
