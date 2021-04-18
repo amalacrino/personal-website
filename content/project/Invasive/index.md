@@ -23,12 +23,8 @@ url_video: ""
 slides: example
 ---
 
-A major threat to ecosystems worldwide is the spread of species outside their natural range, and this is  facilitated by international trades. Species invading new territories can lead to catastrophic environmental and economic damages (estimated in 77 billion USD annually). Several hypotheses have been proposed to explain biological invasions, and recent evidence suggests that microorganisms might play a pivotal role. 
+A major threat to ecosystems worldwide is the spread of species outside their natural range, and this is  facilitated by international trades. Species invading new territories can lead to catastrophic environmental and economic damages (estimated in 77 billion USD annually). Several hypotheses have been proposed to explain biological invasions, and recent evidence suggests that microorganisms might play a pivotal role. *My research investigates the role of microorganisms in aiding biological invasions, and the effect of biological invasions on environmental microbiomes*.
 
-*My research investigates the role of microbiomes in aiding biological invasions*
+I extensively worked with invasive species (citrus insect scales, chestnut gall wasp, small hive beetle,  and many others), and part of my work focuses on understanding how microbial communities can influence the spread of exotic species. My research showed that the microbial community associated with invasive species, or those expanding their range, is different from the one they associate with in their native environment. Furthermore, we found that a key to the success of invasive species might rely on engaging novel host-microorganisms relationships by interacting with the microbiome of the invaded environment.
 
-![](image.jpg | width=100)
-
-I extensively worked with invasive species (citrus insect scales, chestnut gall wasp, small hive beetle,  and many others), and part of my work focuses on how microbial communities can influence the spread of exotic species. 
-
-My research showed that the microbial community associated with invasive insect species, or those expanding their range, is different from the one they are associated with in their native environment. Furthermore, we found that a key to the success of invasive insect might rely on engaging novel insect-microorganisms relatioship by interacting with the microbiome of the invaded environment.
+{{< figure src="image.jpg"  lightbox="true" >}}
