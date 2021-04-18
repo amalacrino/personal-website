@@ -27,8 +27,8 @@ Simplistically, we tend to explain primary productivity by the combined action o
 
 *My research investigates the factors that contributes to the structure of plant microbial assemblages, and how this influences insect herbivores*
 
-{{< figure src="image.png"  lightbox="true" >}}
-
 We know that plants are able to actively alter their microbiota on the basis of their needs, in particular  during stress episodes, recruiting beneficial microbes that help to alleviate the negative effects produced by the stressor.
 
-My research is showing that soil microbial community, through the plant, can influence herbivore-associated microbiome and and even herbivore’s fitness (currently *under review*). This is of great applied  interest, because the manipulation of soil microbial communities can  give us access to herbivores’ microbiome, with potential applications in crop protection.
+My research is showing that soil microbial community, through the plant, can influence herbivore-associated microbiome and and even herbivore’s fitness. This is of great applied  interest, because the manipulation of soil microbial communities can  give us access to herbivores’ microbiome, with potential applications in crop protection.
+
+{{< figure src="image.png"  lightbox="true" >}}
