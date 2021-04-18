@@ -27,7 +27,7 @@ A major threat to ecosystems worldwide is the spread of species outside their na
 
 *My research investigates the role of microbiomes in aiding biological invasions*
 
-{{< figure src="image.jpg"  lightbox="true" >}}
+![](image.jpg | width=100)
 
 I extensively worked with invasive species (citrus insect scales, chestnut gall wasp, small hive beetle,  and many others), and part of my work focuses on how microbial communities can influence the spread of exotic species. 
 
