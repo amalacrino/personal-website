@@ -10,11 +10,11 @@ authors:
 superuser: true
 
 # Role/position
-role: Postdoctoral Researcher
+role: Junior Research Group Leader
 
 # Organizations/Affiliations
 organizations:
-- name: The Ohio State University
+- name: University of Münster
 #  url: "https://eeob.osu.edu/people/malacrino.1"
 
 # Short bio (displayed in user profile at end of posts)
@@ -77,10 +77,6 @@ user_groups:
 - Researchers
 - Visitors
 ---
-
-{{% alert note%}} 
-Soon I'll join the [Plant-Adaptation-in-Action group](https://www.uni-muenster.de/Evolution/plantadapt/groupmain.shtml) at the WWU Münster (Germany)!
-{{% /alert %}} 
 
 **I’m a molecular ecologist interested in insect- and plant-associated microbiomes.**
 
