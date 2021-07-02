@@ -10,7 +10,7 @@ authors:
 superuser: true
 
 # Role/position
-role: Junior Research Group Leader
+role: Junior Group Leader
 
 # Organizations/Affiliations
 organizations:
