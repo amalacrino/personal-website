@@ -1,5 +1,5 @@
 ---
-title: Plant-microbiome-insect interactions
+title: Microbiome influence on plant evolution
 summary:
 
 # Optional external URL for project (replaces project detail page).
