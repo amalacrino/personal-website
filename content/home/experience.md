@@ -57,4 +57,4 @@ date_format = "Jan 2006"
 
 I grew up in [Reggio Calabria](https://en.wikipedia.org/wiki/Reggio_Calabria) (Italy) and I've always been passionate about agriculture. This carried into my studies and the decision to pursue a PhD on the edge between two fields: [plant pathology](https://www.unirc.it/ricerca/laboratori.php?lab=11) and [entomology](https://www.unirc.it/ricerca/laboratori.php?lab=12). After my PhD, I joined the [Friberg Lab](https://liu.se/en/research/friberg-lab) at [Linköping University](https://liu.se/) (Sweden) for my first postdoctoral position, and the [Bennett Lab](https://species-interactions.osu.edu/) at  [The Ohio State University](https://eeob.osu.edu/) for my second postdoc. 
 
-I am currently a Junior Group Leader at  the [University of Münster](https://www.uni-muenster.de/Evolution/) where I'm working on the influence of microorganisms on plant evolution and on plant-herbivore interactions.
+I am currently a Junior Group Leader at  the [University of Münster](https://www.uni-muenster.de/Evolution/) where I'm working on the influence of microorganisms on plant evolution.
