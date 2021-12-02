@@ -67,4 +67,4 @@ subtitle = ""
  css_class = ""
 +++
 
-My core research is focused on answering key questions about microbiomes associated with insects and plants (how do they assemble? how host interacts with its microbiome? what a microbiome shift implies to its host?). The models I use in my research span from key pests (e.g., fruit flies), to invasive species (e.g., ambrosia beetles) and model insects (e.g., potato aphid), and their interaction with economically important crops (e.g., tomato, potato, citrus, peaches). My approach combines molecular techniques (metabarcoding, metagenomics, transcriptomics, metatranscriptomics) with bioinformatic tools on High Performance Computing platforms.
+My core research is focused on answering key questions about plant microbiomes (how do they assemble? how host interacts with its microbiome? what a microbiome shift implies to its host?), combining molecular techniques (metabarcoding, metagenomics, transcriptomics, metatranscriptomics) with bioinformatic tools on High Performance Computing platforms.
