@@ -21,10 +21,8 @@ organizations:
 bio: I’m a molecular ecologist interested in insect-microorganisms and plant-microorganism interaction.
 
 interests:
-- Insects
 - Plants
 - Microbiomes
-- Invasive species
 
 education:
   courses:
