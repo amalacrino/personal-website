@@ -18,7 +18,7 @@ organizations:
 #  url: "https://eeob.osu.edu/people/malacrino.1"
 
 # Short bio (displayed in user profile at end of posts)
-bio: I’m a molecular ecologist interested in insect-microorganisms and plant-microorganism interaction.
+bio: I’m a molecular ecologist interested in plant-microorganism interaction.
 
 interests:
 - Plants
@@ -76,6 +76,6 @@ user_groups:
 - Visitors
 ---
 
-**I’m a molecular ecologist interested in insect- and plant-associated microbiomes.**
+**I’m a molecular ecologist interested in plant-microorganism interaction.**
 
-I mix molecular biology, high-throughput sequencing and high-performance computing to answer important fundamental questions: how microbiomes influence the phenotype and fitness of their host? How microbiomes help invasive species to adapt to new environments? How microbes mediate the interaction between plants and their herbivores?
+I mix molecular biology, high-throughput sequencing and high-performance computing to answer important fundamental questions: how microbiomes influence the phenotype and fitness of their host? How microbiomes help invasive species to adapt to new environments? How microbes drive the evolution of their host?
