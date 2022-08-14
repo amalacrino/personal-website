@@ -79,3 +79,11 @@ user_groups:
 **I’m a molecular ecologist interested in plant-microorganism interaction.**
 
 I mix molecular biology, high-throughput sequencing and high-performance computing to answer important fundamental questions: how microbiomes influence the phenotype and fitness of their host? How microbiomes help invasive species to adapt to new environments? How microbes drive the evolution of their host?
+
+{{% alert note%}}
+**New website soon!**
+
+Exciting updates are coming ... and they deserve a new website! I'm currently working on it, and it should be available early this fall. Stay tuned!
+
+{{% /alert %}}
+
